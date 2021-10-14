@@ -1,0 +1,115 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1237; Version 2009; 64bit' Language: 'ko' Physical Memory: 16060 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/hwang/Unity Project/프로틴 개발(개인)
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52432
+Successfully changed project path to: C:/Users/hwang/Unity Project/프로틴 개발(개인)
+C:/Users/hwang/Unity Project/프로틴 개발(개인)
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 23.15 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.3f1 (76626098c1c4)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/hwang/Unity Project/프로틴 개발(개인)/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce MX450 (ID=0x1f97)
+    Vendor:   
+    VRAM:     1928 MB
+    Driver:   30.0.14.7111
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56348
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001516 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 20.06 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.600 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000429 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.642 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1116 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.8 MB.
+System memory in use after: 61.9 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1562.
+Total: 1.785400 ms (FindLiveObjects: 0.139100 ms CreateObjectMapping: 0.031500 ms MarkObjects: 1.511700 ms  DeleteObjects: 0.102300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Prefabs/City.prefab
+  artifactKey: Guid(83611c090b1ca0147ad0e4b7c9f4bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/City.prefab using Guid(83611c090b1ca0147ad0e4b7c9f4bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0474cfd7cf796ea62cd479774432f4f7') in 0.315590 seconds
+  Import took 0.329417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.094354 seconds.
+  path: Assets/Prefabs/City.prefab
+  artifactKey: Guid(83611c090b1ca0147ad0e4b7c9f4bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/City.prefab using Guid(83611c090b1ca0147ad0e4b7c9f4bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abaf6a1732a04fd174060833d6579296') in 0.173591 seconds
+  Import took 0.186557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.721001 seconds.
+  path: Assets/Prefabs/City.prefab
+  artifactKey: Guid(83611c090b1ca0147ad0e4b7c9f4bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/City.prefab using Guid(83611c090b1ca0147ad0e4b7c9f4bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fc05a3c02a87c3f170da014e6dd1ca0') in 0.189283 seconds
+  Import took 0.207418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.885985 seconds.
+  path: Assets/Prefabs/City.prefab
+  artifactKey: Guid(83611c090b1ca0147ad0e4b7c9f4bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/City.prefab using Guid(83611c090b1ca0147ad0e4b7c9f4bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a60ad317ac3c3e8c16cafe1f2756fdb7') in 0.159947 seconds
+  Import took 0.183417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 313.766716 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9682dda78dd410e803c7f059452aed16') in 0.010860 seconds
+  Import took 0.013456 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
