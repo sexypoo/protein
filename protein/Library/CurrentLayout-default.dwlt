@@ -103,7 +103,7 @@ MonoBehaviour:
   m_MinSize: {x: 911, y: 442}
   m_MaxSize: {x: 22006, y: 10021}
   vertical: 0
-  controlID: 16
+  controlID: 17
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -149,7 +149,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 442}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 47
+  controlID: 67
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -360,23 +360,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 3a6d0000
       m_LastClickedID: 0
-      m_ExpandedIDs: 18e4ffffdcfaffff52fbffff
+      m_ExpandedIDs: 52fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Street lamp
-        m_OriginalName: Street lamp
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 72832
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 4
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 7}
       m_SearchString: 
@@ -461,22 +461,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/material/glass
+    - Assets/Prefabs
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/material/glass
+  - Assets/Prefabs
   m_LastFoldersGridSize: 96
   m_LastProjectPath: "C:\\Users\\hwang\\OneDrive\\\uBB38\uC11C\\GitHub\\UnityProject\\protein"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 84900000
-    m_LastClickedID: 36996
-    m_ExpandedIDs: 000000006c8c00006e8c0000708c0000728c0000748c0000ae8c0000b28c0000b68c0000
+    m_SelectedIDs: da6a0000
+    m_LastClickedID: 27354
+    m_ExpandedIDs: 00000000c46a0000c66a0000c86a0000ca6a0000cc6a0000d06a0000d46a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -504,7 +504,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000006c8c00006e8c0000708c0000728c0000748c0000
+    m_ExpandedIDs: 00000000c46a0000c66a0000c86a0000ca6a0000cc6a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -685,9 +685,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -54.620255, y: -50.65866, z: 29.307114}
+    m_Target: {x: 19.681248, y: -71.77695, z: 30.329666}
     speed: 2
-    m_Value: {x: -54.620255, y: -50.65866, z: 29.307114}
+    m_Value: {x: 19.681248, y: -71.77695, z: 30.329666}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -734,13 +734,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.3848062, y: 0.16662376, z: -0.070820466, w: -0.90509284}
+    m_Target: {x: -0.48800424, y: 0.024049625, z: -0.013432271, w: -0.8724345}
     speed: 2
-    m_Value: {x: -0.38245136, y: 0.1789365, z: -0.07573857, w: -0.9033141}
+    m_Value: {x: -0.49330592, y: 0.01744637, z: -0.009876522, w: -0.86962485}
   m_Size:
-    m_Target: 223.77176
+    m_Target: 199.46977
     speed: 2
-    m_Value: 223.77176
+    m_Value: 199.46977
   m_Ortho:
     m_Target: 0
     speed: 2
