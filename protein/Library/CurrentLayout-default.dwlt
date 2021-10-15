@@ -103,7 +103,11 @@ MonoBehaviour:
   m_MinSize: {x: 911, y: 442}
   m_MaxSize: {x: 22006, y: 10021}
   vertical: 0
+<<<<<<< HEAD
   controlID: 20
+=======
+  controlID: 60
+>>>>>>> f4894d5bf5eb68f42cbb97027bd20dea8a110786
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -149,7 +153,11 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 442}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
+<<<<<<< HEAD
   controlID: 84
+=======
+  controlID: 136
+>>>>>>> f4894d5bf5eb68f42cbb97027bd20dea8a110786
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -362,7 +370,11 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
+<<<<<<< HEAD
       m_ExpandedIDs: 2aceffff52fbffff
+=======
+      m_ExpandedIDs: 2230ffff20a0ffff1cccffffd2ccffff50ceffffdcfaffff52fbffff64f1000094330100223401008e390100a63d0100dc450100
+>>>>>>> f4894d5bf5eb68f42cbb97027bd20dea8a110786
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -378,7 +390,7 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 7}
+        m_ClientGUIView: {fileID: 8}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -461,22 +473,36 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< HEAD
     - Assets/Free Assets/Fantasy Skybox FREE/Materials/Classic
+=======
+    - Assets/Free Assets/Fantasy Skybox FREE/Materials/FS017
+>>>>>>> f4894d5bf5eb68f42cbb97027bd20dea8a110786
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
+<<<<<<< HEAD
   - Assets/Free Assets/Fantasy Skybox FREE/Materials/Classic
+=======
+  - Assets/Free Assets/Fantasy Skybox FREE/Materials/FS017
+>>>>>>> f4894d5bf5eb68f42cbb97027bd20dea8a110786
   m_LastFoldersGridSize: 96
   m_LastProjectPath: "C:\\Users\\hwang\\OneDrive\\\uBB38\uC11C\\GitHub\\UnityProject\\protein"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: e4840000
     m_LastClickedID: 34020
     m_ExpandedIDs: 00000000a4840000a6840000a8840000aa840000ac840000ae840000b0840000b2840000b4840000b6840000b8840000ba840000bc840000c0840000
+=======
+    m_SelectedIDs: e0890100
+    m_LastClickedID: 100832
+    m_ExpandedIDs: 0000000010830000128300001483000016830000188300001c8300001e8300006a86000074860000c2b100003e01010044010100dc890100
+>>>>>>> f4894d5bf5eb68f42cbb97027bd20dea8a110786
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -504,7 +530,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000a4840000a6840000a8840000aa840000ac840000ae840000b0840000b2840000b4840000b6840000b8840000ba840000bc840000
+=======
+    m_ExpandedIDs: 000000001083000012830000148300001683000018830000
+>>>>>>> f4894d5bf5eb68f42cbb97027bd20dea8a110786
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -556,7 +586,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 1080}
     m_GridSize: 96
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 115
@@ -685,9 +715,15 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
     m_Target: {x: 185.4563, y: 141.28955, z: 47.8654}
     speed: 2
     m_Value: {x: 185.4563, y: 141.28955, z: 47.8654}
+=======
+    m_Target: {x: 66.79002, y: 51.01541, z: -31.385502}
+    speed: 2
+    m_Value: {x: 66.79002, y: 51.01541, z: -31.385502}
+>>>>>>> f4894d5bf5eb68f42cbb97027bd20dea8a110786
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -734,6 +770,7 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
+<<<<<<< HEAD
     m_Target: {x: 0.0033919306, y: -0.6648527, z: -0.0029568803, w: -0.7470153}
     speed: 2
     m_Value: {x: 0.003387354, y: -0.6659455, z: -0.0029618447, w: -0.74598694}
@@ -741,6 +778,15 @@ MonoBehaviour:
     m_Target: 329.74203
     speed: 2
     m_Value: 329.74203
+=======
+    m_Target: {x: -0.123359874, y: -0.6653699, z: 0.11289006, w: -0.7275966}
+    speed: 2
+    m_Value: {x: -0.12175905, y: -0.6687815, z: 0.1124366, w: -0.72475106}
+  m_Size:
+    m_Target: 89.69085
+    speed: 2
+    m_Value: 89.69085
+>>>>>>> f4894d5bf5eb68f42cbb97027bd20dea8a110786
   m_Ortho:
     m_Target: 0
     speed: 2
