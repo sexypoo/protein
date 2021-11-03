@@ -8,6 +8,9 @@ public class Player : MonoBehaviour
     public Transform CharacterBody;
     public Animator animator;
     public float Speed;
+   
+    public string AlbaMod = "None";
+
     private void Update()
     {
         LookAround();
@@ -57,4 +60,35 @@ public class Player : MonoBehaviour
 
         //HPBar.fillAmount = Health / MaxHealth;
     }
+
+    void OnTriggerStay(Collider other)
+    {
+        if (other.gameObject.tag == "Trigger")
+        {
+            if (AlbaMod == "None" || AlbaMod == "Alba")
+            { 
+                if (Input.GetKeyDown(KeyCode.E))
+                {
+                    if (AlbaMod == "None") AlbaMod = "Alba_ing";
+                    else if (AlbaMod == "Alba") AlbaMod = "None_ing";
+                    StartCoroutine(AlbaCoolTime(3f));
+                }
+            }
+            
+        }
+    }   
+
+    IEnumerator AlbaCoolTime (float cool)
+    {
+        while (cool > 1.0f)
+        {
+            cool -= Time.deltaTime;
+            yield return new WaitForFixedUpdate();
+        }
+
+        if (AlbaMod == "None_ing") AlbaMod = "None";
+        else if (AlbaMod == "Alba_ing") AlbaMod = "Alba";
+    }
+
+
 }
