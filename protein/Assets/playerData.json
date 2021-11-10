@@ -1,0 +1,10 @@
+{
+    "_name": "goeun",
+    "_level": 10,
+    "_coin": 40,
+    "_fame": 50,
+    "_energy": 100.0,
+    "_hungry": 90.0,
+    "_muscleLoss": 70.0,
+    "isDown": false
+}
